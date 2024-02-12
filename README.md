@@ -3,62 +3,62 @@
 WELCOME TO THE SNAKE GAME IN JAVA - A CLASSIC RECREATION OF THE ICONIC SNAKE GAME USING JAVA. BRACE YOURSELF FOR A THRILLING GAMING EXPERIENCE!
 
 <p align="left">
-  <img src="https://github.com/ROHIT-SINGH-1/SnakeJava2D/assets/154723612/73b3998c-7a01-4c8b-aa88-7c7c1bcd1552" width="100" height="100" alt="Game Icon">
+  <img src="https://github.com/ROHIT-SINGH-1/SnakeJava2D/assets/154723612/73b3998c-7a01-4c8b-aa88-7c7c1bcd1552" width="120" height="120" alt="Game Icon">
 </p>
 
-## 🕹️ How to Play
+## 🕹️ HOW TO PLAY
 
-### 1. 📥 Download the Game:
-   - Clone or download the repository to your local machine.
+### 1. 📥 DOWNLOAD THE GAME:
+   - CLONE OR DOWNLOAD THE REPOSITORY TO YOUR LOCAL MACHINE.
 
-### 2. 🚀 Run the Game:
-   - Ensure Java is installed on your system.
-   - Compile and execute the Java program.
+### 2. 🚀 RUN THE GAME:
+   - ENSURE JAVA IS INSTALLED ON YOUR SYSTEM.
+   - COMPILE AND EXECUTE THE JAVA PROGRAM.
 
-### 3. 🎮 Controls:
-   - Use the `arrow keys` or `WASD` to control the snake.
-   - Press 'P' to pause and resume the game.
-   - Press 'ESC' to exit the game.
+### 3. 🎮 CONTROLS:
+   - USE THE `ARROW KEYS` OR `WASD` TO CONTROL THE SNAKE.
+   - PRESS 'P' TO PAUSE AND RESUME THE GAME.
+   - PRESS 'ESC' TO EXIT THE GAME.
 
-### 4. 🍎 Gameplay:
-   - Guide the snake to consume apples.
-   - Each apple eaten results in snake growth.
-   - Earn points for each successful bite.
+### 4. 🍎 GAMEPLAY:
+   - GUIDE THE SNAKE TO CONSUME APPLES.
+   - EACH APPLE EATEN RESULTS IN SNAKE GROWTH.
+   - EARN POINTS FOR EACH SUCCESSFUL BITE.
 
-### 5. ⚠️ Watch Out!
-   - Avoid collisions with walls and, crucially, yourself!
+### 5. ⚠️ WATCH OUT!
+   - AVOID COLLISIONS WITH WALLS AND, CRUCIALLY, YOURSELF!
 
-### 6. 🎉 Have Fun!
-   - Immerse yourself in the classic Snake Game experience.
+### 6. 🎉 HAVE FUN!
+   - IMMERSE YOURSELF IN THE CLASSIC SNAKE GAME EXPERIENCE.
 
-## 🎉 Features
+## 🎉 FEATURES
 
-- **Classic Snake Mechanics:** Navigate, consume, and grow!
-- **Scoring System:** Accumulate points with every apple devoured.
-- **Countdown Before Start:** Adds an element of anticipation.
-- **Pause Functionality:** Press `P` for a brief respite.
-- **Exit Game:** Use `ESC` to gracefully exit.
+- **CLASSIC SNAKE MECHANICS:** NAVIGATE, CONSUME, AND GROW!
+- **SCORING SYSTEM:** ACCUMULATE POINTS WITH EVERY APPLE DEVOURED.
+- **COUNTDOWN BEFORE START:** ADDS AN ELEMENT OF ANTICIPATION.
+- **PAUSE FUNCTIONALITY:** PRESS `P` FOR A BRIEF RESPITE.
+- **EXIT GAME:** USE `ESC` TO GRACEFULLY EXIT.
 
-## 🚀 Getting Started
+## 🚀 GETTING STARTED
 
-Embark on this Snake-tastic journey:
+EMBARK ON THIS SNAKE-TASTIC JOURNEY:
 
-### 1. 🔄 Clone the Repository:
-   - Run `https://github.com/ROHIT-SINGH-1/SnakeJava2D.git`
+### 1. 🔄 CLONE THE REPOSITORY:
+   - RUN `https://github.com/ROHIT-SINGH-1/SnakeJava2D.git`
 
-### 2. 🖱️ Compile and Run:
-   - Ensure Java is installed.
-   - Compile and execute the Java program.
+### 2. 🖱️ COMPILE AND RUN:
+   - ENSURE JAVA IS INSTALLED.
+   - COMPILE AND EXECUTE THE JAVA PROGRAM.
 
-### 3. 🐍 Start Playing:
-   - Follow on-screen instructions.
-   - Maneuver the snake, consume, and enjoy!
+### 3. 🐍 START PLAYING:
+   - FOLLOW ON-SCREEN INSTRUCTIONS.
+   - MANEUVER THE SNAKE, CONSUME, AND ENJOY!
 
-### 4. ❓ Encountering Issues?
-   - For troubleshooting, refer to [GitHub Issues](https://github.com/ROHIT-SINGH-1/SnakeJava2D/issues).
+### 4. ❓ ENCOUNTERING ISSUES?
+   - FOR TROUBLESHOOTING, REFER TO [GITHUB ISSUES](https://github.com/ROHIT-SINGH-1/SnakeJava2D/issues).
 
-Ready to channel your inner snake charmer? Dive in and savor the game! 🎮
+READY TO CHANNEL YOUR INNER SNAKE CHARMER? DIVE IN AND SAVOR THE GAME! 🎮
 
-## 📄 License
+## 📄 LICENSE
 
-This Snake Game in Java is licensed under the [GNU General Public License version 3.0](LICENSE).
+THIS SNAKE GAME IN JAVA IS LICENSED UNDER THE [GNU GENERAL PUBLIC LICENSE VERSION 3.0](LICENSE).
